@@ -46,7 +46,7 @@ As for my personal qualities, they will allow me to quickly get up to speed and 
 
 ###### Courses:
 - manual QA
-- Redev
+- Redev 
 - RSshool
 
 ## English 
